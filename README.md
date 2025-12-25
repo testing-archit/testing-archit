@@ -1,4 +1,4 @@
-a# 💫 About Me:
+💫 About Me:
 I’m a BTech student and developer focused on building practical, user-centric web applications. I work across frontend and backend, with a strong interest in AI-driven products, clean system design, and performance-oriented code. I like shipping real projects, breaking things to understand them, and iterating fast.
 
 
