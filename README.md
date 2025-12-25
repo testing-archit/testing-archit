@@ -18,9 +18,6 @@ I’m a BTech student and developer focused on building practical, user-centric 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=testing-archit&icon=0&color=0)](https://visitcount.itsvg.in)
 
